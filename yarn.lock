@@ -3040,10 +3040,10 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-mcgorgeous@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/mcgorgeous/-/mcgorgeous-0.0.5.tgz#eda62032207b71ed796574f0616bf1e4d1bd916d"
-  integrity sha512-VauHpHbw8iM/x5AO6DfITJughkw1pwJFryggvRwxTtHB2EIK6J7t56mOOeH8Jx7z1ZvEydQWk1AZR/bojklw1g==
+mcgorgeous@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/mcgorgeous/-/mcgorgeous-0.0.9.tgz#bc0fbeb6e22e1f50b653306d064d3c376dcef5e8"
+  integrity sha512-9ZiyIh+QDZLoX4CRP/ahLvE/zCLMOO7PmCvIhgwsdTP8xU+j74X/Re9gK/DGkdRUpUoldoj6YtpTXPtyzhLLiw==
 
 md5.js@^1.3.4:
   version "1.3.5"
